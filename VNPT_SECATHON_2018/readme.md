@@ -1,5 +1,5 @@
-#Writeup CTF VNPT SECATHON 2018
-#Web Flag Shop
+# Writeup CTF VNPT SECATHON 2018
+# Web Flag Shop
 Kết thúc một ngày căng thẳng với SECATHON 2018. Tạm gác lại cái chuyện kết quả, mình xin share về cách giải 1 challenge trong giải lần này *Flag shop*
 ![trangchu](1.png)
 Giao diện trang web giống như trang web bán hàng bình thường mà ta dùng hàng ngày. Đầu tiên trang web có chức năng đăng ký và đăng nhập. Lần đầu mình nghĩ lỗi ở đây nhưng sau 1 lúc mò mẫm đã bỏ cái ý định này ngay. Mình đã đăng ký 1 tài khoản và đăng nhập vào, vì chỉ có đăng nhập mới mua được hàng:
